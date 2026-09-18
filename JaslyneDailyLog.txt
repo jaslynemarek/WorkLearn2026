@@ -1,0 +1,29 @@
+Jaslyne Marek's Daily Logs - Temporal Ecology Lab WorkLearn 2026
+
+September 8th:
+Completed New Worker Safety Orientation! This took half an hour.
+
+September 9th: 
+Finished the rest of the mandatory online UBC training courses to start work.
+
+September 10th: 
+Met with Mao to discuss possible projects for the year and see the lab. We talked about two possible projects, one of them being about the seed germination experiment, and another working with a large dataset from another lab. We got access to the building, lab room, and basement with the cold rooms. Looks like I'll need training for the autoclave so that we can dispose of some soil.
+
+September 11th: 
+Went into FSC to have autoclave training at 1pm with Mehrdad. In total this took about 30 mins, and we were also trained on the ice machine and distilled water dispenser which are located in the same room as the autoclaves. For soil, we need to use the older autoclave, and always make sure to use the autoclavable trays!! Mehrdad said that we should autoclave with Mao the first time we do it, just to make sure we have supervision. He also said to reach out if we ever have any questions, it was a very helpful training!
+
+September 15th: 
+Met with Mao to learn about measuring tree cores. We met for about 30 mins, and she taught me how to use the software to visualize the tree core images and measure the cores. I now have a work laptop and hard drive. I will be starting with AG05, I am very excited to start measuring.
+
+Some important notes to remember:
+only copy the photos over to the laptop
+NEVER work directly out of the hard drive
+Use the crack tool to identify cracks
+only count up to 130 rings
+track the measured cores in the provided spreadsheet
+check GitHub for any info I forget, as Mao has provided a tutorial
+
+September 17th:
+Working on the GitHub sandbox tutorial. I managed to figure out how to complete the first part and push my .gitignore and unzipped files onto GitHub, hooray!!
+
+September 18th:
