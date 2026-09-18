@@ -27,3 +27,5 @@ September 17th:
 Working on the GitHub sandbox tutorial. I managed to figure out how to complete the first part and push my .gitignore and unzipped files onto GitHub, hooray!!
 
 September 18th:
+Figured out how to push changes in daily log to GitHub (yay!), now I have my daily log in my hour tracking sheet.
+Completed the GitHub sandbox tutorial and emailed the link to my repo as well as the text file with my commands used to Mao. Worked for about 1h 30mins from 9-10:30am.
