@@ -29,3 +29,10 @@ Working on the GitHub sandbox tutorial. I managed to figure out how to complete 
 September 18th:
 Figured out how to push changes in daily log to GitHub (yay!), now I have my daily log in my hour tracking sheet.
 Completed the GitHub sandbox tutorial and emailed the link to my repo as well as the text file with my commands used to Mao. Worked for about 1h 30mins from 9-10:30am.
+
+3:15pm-3:45pm: Started measuring tree cores. Started with AG05! Starting to get the hang of it.
+
+7:00pm-8:30pm: Continued measuring tree cores. AG05_4723 (1) and (2) did not have a correlation above 0.4. 
+
+September 21st:
+6:50pm - started with tree core measurements, 8:05pm, finished. Work laptop is being very slow and difficult to work with. 
