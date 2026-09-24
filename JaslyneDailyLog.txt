@@ -36,3 +36,11 @@ Completed the GitHub sandbox tutorial and emailed the link to my repo as well as
 
 September 21st:
 6:50pm - started with tree core measurements, 8:05pm, finished. Work laptop is being very slow and difficult to work with. 
+
+September 23rd:
+Went to first lab meeting from 3-4pm! We discussed a paper about a new model to understand geometric causes of species rarity. There was a bit of confusion from all of us regarding the randomness of barriers used in the model, and how those barriers were used for each species. Nevertheless, it was great to chat with everyone! I am looking forward to the journals we will be looking at in the future; as I will be assigned a journal (or two) to keep an eye on for related publications to the lab.
+
+After the lab meeting, Lizzie and I met to go over how the lab has been so far and what the two possible future projects are. One of them is the seed germination experiment, and the other is related to the BC Ministry of Forests and reforestation. Both seem interested and I am looking forward to working on one of them! Lizzie suggested that I restart the work laptop to see if that fixes how slow it has been (why didn't I think of that!).
+
+September 24th:
+Restarting the computer worked! Now it isn't taking me 15 minutes to open file explorer!!! Getting back to the grind of measuring tree rings. Completed ABAM_AG05_4745, ABAM_AG05_4746. 
