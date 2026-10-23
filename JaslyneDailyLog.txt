@@ -96,8 +96,14 @@ Spent 1.5 hours reviewing soil inoculation experiment data. Checked through data
 October 16th:
 Met with Mao for 30 minutes to discuss visualizations for seed inoculation experiment. We talked about updating the visuals with the new data and looking at final germination percentages for different treatments, in which treatment the seed dies first? What death happens first? and visualizing how fast the germination happens. 
 
-October 17th:
+October 20th:
 Worked through some Swirl R lessons including: basic building blocks, work spaces & files, sequences & numbers, vectors. These are part of the R Programming course selection.
+
+October 21st:
+Working through more Swirl Lessons from 1 hour including: Missing values, subsetting vectors, matrices and data frames, and logic.
+
+October 22nd:
+Did two hours of tree ring measurements. Everything had high correlation compared so some previous measurements!
 
 
 
