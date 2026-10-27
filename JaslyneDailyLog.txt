@@ -105,5 +105,13 @@ Working through more Swirl Lessons from 1 hour including: Missing values, subset
 October 22nd:
 Did two hours of tree ring measurements. Everything had high correlation compared so some previous measurements!
 
+October 23rd:
+More Swirl! Started 4:00pm, finished at 5!
+
+October 27th:
+Was looking over previous data used in preliminary data visualizations for germination experiment. Copied updated data into input folder and pushed to repo so that I can start working on cleaning the data for visualization. Started R script for cleaning .xlsx file and loaded in data.
+
+
+
 
 
