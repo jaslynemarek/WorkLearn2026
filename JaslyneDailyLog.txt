@@ -111,6 +111,14 @@ More Swirl! Started 4:00pm, finished at 5!
 October 27th:
 Was looking over previous data used in preliminary data visualizations for germination experiment. Copied updated data into input folder and pushed to repo so that I can start working on cleaning the data for visualization. Started R script for cleaning .xlsx file and loaded in data.
 
+2:30pm:
+Made two separate .csv files for alive germinants an dead germinants. Used !grepl to remove columns that contained either "dead" or "alive", this means that the "half dead" columns are included in the dead_germinants_10_27.csv file, but not in the alive_germinants_10_27.csv file. All new .csv files are pushed to morasoilinoculation repo.
+
+Started updated_germ_plotting.R script, read in the data and filtered out halfdead data from dead date so that I can isolate for the numeric DOY column name. 
+
+in dead_germinants_10_2.csv, 358dead was labelled 358dead2, so I removed the 2 at the end as it was messing with isolating for the DOY in the column name.
+
+Have the new column names made, need to figure out how to convert DOY to day since start of experiment. 
 
 
 
