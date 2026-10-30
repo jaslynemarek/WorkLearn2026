@@ -120,6 +120,11 @@ in dead_germinants_10_2.csv, 358dead was labelled 358dead2, so I removed the 2 a
 
 Have the new column names made, need to figure out how to convert DOY to day since start of experiment. 
 
+October 29th:
+Finished converting DOY to day since start of experiment! Yay :)
+
+Made both of the deaths_by_treatment and germinations_by_treatment with the updated full data. 
+
 
 
 
