@@ -124,6 +124,7 @@ October 29th:
 Finished converting DOY to day since start of experiment! Yay :)
 
 Made both of the deaths_by_treatment and germinations_by_treatment with the updated full data. 
+Did some tree ring measurements as well, started with THPL today!
 
 
 
