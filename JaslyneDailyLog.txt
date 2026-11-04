@@ -126,6 +126,12 @@ Finished converting DOY to day since start of experiment! Yay :)
 Made both of the deaths_by_treatment and germinations_by_treatment with the updated full data. 
 Did some tree ring measurements as well, started with THPL today!
 
+October 30th:
+Met with Mao and Ken to go over soil inoculation experiment. Need to now make a .csv file with cleaned data and some graphs including average values so that  we can start theorizing on how to build the model.
+
+Nov 3rd:
+Tree ring measurements on AG05. Some cores with low correlation, most with correlation greater than 0.4.
+
 
 
 
