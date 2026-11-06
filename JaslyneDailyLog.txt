@@ -135,5 +135,16 @@ Tree ring measurements on AG05. Some cores with low correlation, most with corre
 Nov 4th:
 Lab meeting with Mao, Victor, and Chuning. We discussed the paper about masting breakdown in beech trees in the Netherlands.
 
+Nov 5th:
+Measured 7 pairs of tree rings! First three pairs did not have significant correlation, but the rest did. Getting closer to finishing AG05.
 
+Nov 6th:
+Remaking/cleaning data into .csv file.
 
+Need to include:
+- time where 50% of the seeds have germinated (5/10)
+- total germination percentage (x/10)
+- time where 50% of the germinants have died
+- 'half dead' should be included with alive treatments
+
+Started a new .R script where I have made new columns with the total number of germinants, and the germinants as a percentage of the planted seeds. Still need to add the t50 columns.
