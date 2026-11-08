@@ -148,3 +148,6 @@ Need to include:
 - 'half dead' should be included with alive treatments
 
 Started a new .R script where I have made new columns with the total number of germinants, and the germinants as a percentage of the planted seeds. Still need to add the t50 columns.
+
+Nov 8th:
+Figured out how to put halfdead and alive germinants into one column. Then made visualizations in updated_germ_plotting.R for both the average germinants per treatment, and average deaths per treatment over time. 
