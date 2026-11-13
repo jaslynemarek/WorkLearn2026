@@ -151,3 +151,10 @@ Started a new .R script where I have made new columns with the total number of g
 
 Nov 8th:
 Figured out how to put halfdead and alive germinants into one column. Then made visualizations in updated_germ_plotting.R for both the average germinants per treatment, and average deaths per treatment over time. 
+
+Nov 13th:
+Pushed updated_germination_by_treatment.pdf, updated_deaths_by_treatment.pdf, and percent_germ_by_treatment.pdf to GitHub
+
+Created visualization for t50 per treatment. Added total_germ column from updated_germ_cleaning.R and added it to alive in updated_germ_plotting.R. Then I made a function to return which day had the number of germinants reach half of the total number of germinants first. Pushed t50 visualization to GitHub.
+
+Made updated_germination_data.csv that includes total number of germinants, germination percent, and t50.
