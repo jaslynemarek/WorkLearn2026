@@ -158,3 +158,9 @@ Pushed updated_germination_by_treatment.pdf, updated_deaths_by_treatment.pdf, an
 Created visualization for t50 per treatment. Added total_germ column from updated_germ_cleaning.R and added it to alive in updated_germ_plotting.R. Then I made a function to return which day had the number of germinants reach half of the total number of germinants first. Pushed t50 visualization to GitHub.
 
 Made updated_germination_data.csv that includes total number of germinants, germination percent, and t50.
+
+Nov 16th:
+Measuring tree rings for 1 hour, none with significant correlations.
+
+Nov 17th:
+Measuring tree rings for 2 hours, THPL_AG05_5183 samples were off by 1 ring, but I couldn't find a missing/overcounted ring.
