@@ -164,3 +164,15 @@ Measuring tree rings for 1 hour, none with significant correlations.
 
 Nov 17th:
 Measuring tree rings for 2 hours, THPL_AG05_5183 samples were off by 1 ring, but I couldn't find a missing/overcounted ring.
+
+Nov 20th:
+Started working on requested visualizations from Ken. 9:50-10:20, met with Mao from 10:30-10:45, started visualizations again at 11:10- 11:45, and again from 1:15-1:45. 
+
+I made a total of 12 visualizations for the following requests outlined in the morasoilinoculation git issues:
+
+1. Amount of observed germinants and deaths over time with non-aggregated data. Like these plots (1 and 2), except each inoculation ratio gets their own six-panel plots and all replicates have their own lines (there should be 15 lines each in 18 panels).
+
+2. Similar to one, except percentage relative to total number seeds (10 or sum of observed germinants and deaths at last observation, whichever is higher).
+
+
+The visualizations have been pushed the morasoilinoculation repo.
