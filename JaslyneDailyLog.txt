@@ -176,3 +176,28 @@ I made a total of 12 visualizations for the following requests outlined in the m
 
 
 The visualizations have been pushed the morasoilinoculation repo.
+
+Nov 22nd:
+
+Started work at 4:20pm, finished at 7:15pm.
+
+Getting started on making visualizations similar to those made on Nov 20th, but with cumulative germinants/deaths.
+
+created 12 new plots:
+
+deaths_cumulative_0.pdf
+deaths_cumulative_10.pdf
+deaths_cumulative_25.pdf
+germinants_cumulative_0.pdf
+germinants_cumulative_10.pdf
+germinants_cumulative_25.pdf
+cumulative_deaths_percent_0.pdf
+cumulative_deaths_percent_10.pdf
+cumulative_deaths_percent_25.pdf
+cumulative_germinants_percent_0.pdf
+cumulative_germinants_percent_10.pdf
+cumulative_germinants_percent_25.pdf
+
+
+With the cumulative percent plots, some treatments had yields higher than 100% because of differences in observations regarding half-deaths, and the fact that I quantified the total amount of seeds/percent germinated using the counts from the final day. To work with this, I just had anything greater than 100% shown as 100% on the new visualizations.
+
