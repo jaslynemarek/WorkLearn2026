@@ -212,3 +212,7 @@ Organizing watering information from daily logs in a .csv file as discussed last
 4. was soil moist before any addition of water
 
 I first made an excel file, and will soon write it into a .csv format.
+
+November 25th;
+
+Working on AG05 tree ring measurements. Managed 8 cores in 1 hour.
